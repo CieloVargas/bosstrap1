@@ -1,0 +1,64 @@
+.content-b{
+
+    background-color: rgb(214, 214, 214);
+    height: 300px;
+}
+
+.columna-b{
+
+      height: 120px;
+      background-color: aqua;
+      border: 2px solid #000;
+
+}
+
+
+.table-warning{
+
+    background-color: rgb(255, 218, 10);
+color: rgb(0, 0, 0);
+
+}
+
+.form-portafolio{
+ background-color: rgb(234, 253, 66);
+ padding: 30px;
+ border-radius: 30px;
+
+
+}
+
+.form-portafolio label{
+      font-size: 20px;
+
+}
+
+.nav-portafolio{
+background-color: aquamarine;
+text-decoration-color: blue;
+}
+
+.modal-portafolio .modal-header{
+background: aqua;
+
+}
+
+
+.modal-portafolio .modal-body p{
+    font-size: 25px;
+
+}
+#carouselHeroCaptions .carousel-item .carousel-caption {
+
+    bottom: 40%;
+   
+
+}
+
+
+#carouselHeroCaptions .carousel-item .carousel-caption h5{
+  font-size: 50px;
+  bottom: 40%;
+  background-color: black;
+
+}
